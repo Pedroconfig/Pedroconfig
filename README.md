@@ -1,6 +1,6 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+# 👋 Olá,E sou Pedro Henrique Pacheco
 
-💻 **Desenvolvedor Full-Stack** com foco em criar soluções modernas, seguras e funcionais, conectando interfaces web, APIs, banco de dados e automação.
+💻 **Engenheiro de software** com foco em criar soluções modernas, seguras e funcionais, conectando interfaces web, APIs, banco de dados e automação.
 
 🚀 Experiência com **TypeScript, JavaScript, React.js, Next.js, Node.js, Python, PostgreSQL, MySQL e Docker**, desenvolvendo aplicações completas do front-end ao back-end.
 
@@ -9,16 +9,10 @@
 ---
 
 ## 🧠 Sobre mim
-
-Sou desenvolvedor em formação contínua, com foco em **desenvolvimento full-stack**, APIs, sistemas web, banco de dados relacional e automação.
+sou Pós-graduado em engenharia de software e desenvolvedor em formação contínua, com foco em **desenvolvimento full-stack**, APIs, sistemas web, banco de dados relacional e automação.
 
 Atualmente estudo e desenvolvo aplicações utilizando **Next.js**, **React**, **TypeScript**, **Node.js**, **Python**, **PostgreSQL**, **MySQL**, **Prisma** e **Docker**.
-
-Tenho interesse em construir soluções que unam **interfaces responsivas**, **regras de negócio bem estruturadas**, **segurança**, **performance** e **boa experiência para o usuário**.
-
-Também venho aprofundando meus conhecimentos em autenticação, autorização, geração de documentos, integração com serviços externos, deploy de aplicações e organização de ambientes com containers.
-
-Entre meus principais projetos estão:
+ Atuo no desenvolvo sistemas que unem **automação corporativa**, **análise de dados** e **interfaces responsivas**. Atuo na criação de ferramentas que agilizam o fluxo de trabalho entre diferentes setores, garantindo **eficiência operacional**, **segurança da informação** e **integração entre equipes**.
 
 ---
 
