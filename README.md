@@ -1,4 +1,4 @@
-# 👋 Olá,E sou Pedro Henrique Pacheco
+# 👋 Olá, sou Pedro Henrique Pacheco
 
 💻 **Engenheiro de software** com foco em criar soluções modernas, seguras e funcionais, conectando interfaces web, APIs, banco de dados e automação.
 
