@@ -12,7 +12,7 @@
 sou Pós-graduado em engenharia de software e desenvolvedor em formação contínua, com foco em **desenvolvimento full-stack**, APIs, sistemas web, banco de dados relacional e automação.
 
 Atualmente estudo e desenvolvo aplicações utilizando **Next.js**, **React**, **TypeScript**, **Node.js**, **Python**, **PostgreSQL**, **MySQL**, **Prisma** e **Docker**.
- Atuo no desenvolvo sistemas que unem **automação corporativa**, **análise de dados** e **interfaces responsivas**. Atuo na criação de ferramentas que agilizam o fluxo de trabalho entre diferentes setores, garantindo **eficiência operacional**, **segurança da informação** e **integração entre equipes**.
+ Atuo no desenvolvimento sistemas que unem **automação corporativa**, **análise de dados** e **interfaces responsivas**. Atuo na criação de ferramentas que agilizam o fluxo de trabalho entre diferentes setores, garantindo **eficiência operacional**, **segurança da informação** e **integração entre equipes**.
 
 ---
 
