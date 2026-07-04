@@ -33,18 +33,18 @@ Sistema web desenvolvido para gerenciamento de **ordens de serviço**, clientes,
 
 ---
 
-###📄 OCRFlow AI
+### 📄 OCRFlow AI
 
 Sistema inteligente de OCR desenvolvido para leitura, extração e organização de informações a partir de documentos, utilizando Next.js e modelos de IA da Hugging Face.
 
-🔎 Extração automática de texto em documentos e imagens.
-🧠 Uso de modelos como microsoft/trocr-base-printed para reconhecimento de texto impresso.
-📄 Estrutura preparada para análise documental com modelos como microsoft/layoutlmv3-base.
-📂 Upload e processamento de arquivos em uma interface moderna.
-⚡ Aplicação construída com React, Next.js e componentização reutilizável.
-🗄️ Organização dos dados extraídos para consultas futuras.
-📊 Apoio à automação de processos administrativos, jurídicos e documentais.
-🧩 Arquitetura preparada para futuras integrações com IA, banco de dados, dashboards e análise semântica.
+> 🔎 Extração automática de texto em documentos e imagens.
+> 🧠 Uso de modelos como microsoft/trocr-base-printed para reconhecimento de texto impresso.
+> 📄 Estrutura preparada para análise documental com modelos como microsoft/layoutlmv3-base.
+> 📂 Upload e processamento de arquivos em uma interface moderna.
+> ⚡ Aplicação construída com React, Next.js e componentização reutilizável.
+> 🗄️ Organização dos dados extraídos para consultas futuras.
+> 📊 Apoio à automação de processos administrativos, jurídicos e documentais.
+> 🧩 Arquitetura preparada para futuras integrações com IA, banco de dados, dashboards e análise semântica.
 ---
 
 ### 🎾 Rede Social para Jogadores de Beach Tennis
