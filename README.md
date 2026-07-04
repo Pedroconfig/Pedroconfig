@@ -33,17 +33,18 @@ Sistema web desenvolvido para gerenciamento de **ordens de serviço**, clientes,
 
 ---
 
-### 🏖️ Landing Page com Chatbot
+###📄 OCRFlow AI
 
-Landing page interativa desenvolvida para apresentação de informações de um hotel/pousada, com navegação por seções e assistente virtual.
+Sistema inteligente de OCR desenvolvido para leitura, extração e organização de informações a partir de documentos, utilizando Next.js e modelos de IA da Hugging Face.
 
-> 💬 Chatbot com respostas automáticas para perguntas frequentes.  
-> 📱 Interface responsiva para desktop e mobile.  
-> 🎨 Layout moderno com foco em experiência do usuário.  
-> 🧭 Navegação por seções da página.  
-> ⚡ Componentização com React e Next.js.  
-> 🧩 Estrutura preparada para integração futura com IA.
-
+🔎 Extração automática de texto em documentos e imagens.
+🧠 Uso de modelos como microsoft/trocr-base-printed para reconhecimento de texto impresso.
+📄 Estrutura preparada para análise documental com modelos como microsoft/layoutlmv3-base.
+📂 Upload e processamento de arquivos em uma interface moderna.
+⚡ Aplicação construída com React, Next.js e componentização reutilizável.
+🗄️ Organização dos dados extraídos para consultas futuras.
+📊 Apoio à automação de processos administrativos, jurídicos e documentais.
+🧩 Arquitetura preparada para futuras integrações com IA, banco de dados, dashboards e análise semântica.
 ---
 
 ### 🎾 Rede Social para Jogadores de Beach Tennis
@@ -104,7 +105,7 @@ MVP de uma aplicação voltada para conectar jogadores de beach tennis, facilita
 
 <!-- Adicione seus links reais abaixo, caso queira -->
 
-📧 **Email:** seu-email-aqui  
+📧 **Email:** phenriquesp1997@gmail.com 
 💼 **LinkedIn:** seu-linkedin-aqui  
 🌐 **Portfólio:** seu-portfolio-aqui  
 
