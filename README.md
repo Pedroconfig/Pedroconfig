@@ -1,115 +1,66 @@
-# 👋 Olá, sou Pedro Henrique Pacheco
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0E7490,100:14B8A6&height=180&section=header&text=Pedro&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20Fortaleza,%20BR&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-💻 **Engenheiro de software** com foco em criar soluções modernas, seguras e funcionais, conectando interfaces web, APIs, banco de dados e automação.
+<div align="center">
 
-🚀 Experiência com **TypeScript, JavaScript, React.js, Next.js, Node.js, Python, PostgreSQL, MySQL e Docker**, desenvolvendo aplicações completas do front-end ao back-end.
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&pause=1200&color=14B8A6&center=true&vCenter=true&width=620&lines=Node.js+%2B+TypeScript+no+backend;APIs%2C+workers+e+filas+que+n%C3%A3o+caem;Postgres%2C+Redis%2C+Docker+e+CI%2FCD" alt="Typing SVG" />
 
-🎯 Apaixonado por **desenvolvimento web**, **boas práticas de código**, **banco de dados**, **automação de processos** e criação de sistemas que resolvem problemas reais.
-
----
-
-## 🧠 Sobre mim
-sou Pós-graduado em engenharia de software e desenvolvedor em formação contínua, com foco em **desenvolvimento full-stack**, APIs, sistemas web, banco de dados relacional e automação.
-
-Atualmente estudo e desenvolvo aplicações utilizando **Next.js**, **React**, **TypeScript**, **Node.js**, **Python**, **PostgreSQL**, **MySQL**, **Prisma** e **Docker**.
- Atuo no desenvolvimento sistemas que unem **automação corporativa**, **análise de dados** e **interfaces responsivas**. Atuo na criação de ferramentas que agilizam o fluxo de trabalho entre diferentes setores, garantindo **eficiência operacional**, **segurança da informação** e **integração entre equipes**.
+</div>
 
 ---
 
-## 🧩 Projetos em Destaque
+Construo backends em **Node.js + TypeScript**: APIs, workers assíncronos, integrações e a infra que sustenta tudo isso.
+Hoje na **Encontre Compre**, cursando pós em **Desenvolvimento e Testes de Software**.
 
-### 🧾 Service Flow
+<br />
 
-Sistema web desenvolvido para gerenciamento de **ordens de serviço**, clientes, empresas e serviços.
+### Stack
 
-> 🔐 Autenticação com JWT em cookies HTTP-only.  
-> 🏢 Cadastro e gerenciamento de empresas.  
-> 👥 Controle de clientes e serviços vinculados à empresa.  
-> 📄 Geração de ordens de serviço em PDF.  
-> 🗄️ Banco de dados relacional com PostgreSQL.  
-> 🧩 ORM com Prisma para modelagem e consultas ao banco.  
-> 🐳 Ambiente de desenvolvimento com Docker e Docker Compose.  
-> ⚙️ Desenvolvido com Next.js, TypeScript, Prisma e PostgreSQL.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,postgres,redis,prisma,docker,aws,githubactions,nginx&theme=dark&perline=10" />
+</div>
 
----
+<br />
 
-### 📄 OCRFlow AI
+### Construindo agora
 
-Sistema inteligente de OCR desenvolvido para leitura, extração e organização de informações a partir de documentos, utilizando Next.js e modelos de IA da Hugging Face.
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| **[Wave](https://github.com/SEU-USUARIO/wave)** | CRM multi-tenant com pipeline drag-and-drop e timeline de atividades | Next.js 14 · Prisma · PostgreSQL |
+| **[OCR SaaS](https://github.com/SEU-USUARIO/ocr-saas)** | Extração de documentos com pipeline assíncrono e análise por LLM | Next.js · Qwen-VL · Vercel Blob |
+| **[ocr-mobile](https://github.com/SEU-USUARIO/ocr-mobile)** | Cliente mobile do OCR SaaS, consumindo a API em produção | Expo · React Native · NativeWind |
 
-> - 🔎 Extração automática de texto em documentos e imagens.
-> - 🧠 Uso de modelos como `microsoft/trocr-base-printed` para reconhecimento de texto impresso.
-> - 📄 Estrutura preparada para análise documental com modelos como `microsoft/layoutlmv3-base`.
-> - 📂 Upload e processamento de arquivos em uma interface moderna.
-> - ⚡ Aplicação construída com React, Next.js e componentização reutilizável.
-> - 🗄️ Organização dos dados extraídos para consultas futuras.
-> - 📊 Apoio à automação de processos administrativos, jurídicos e documentais.
-> - 🧩 Arquitetura preparada para futuras integrações com IA, banco de dados, dashboards e análise semântica.
+<br />
 
----
+### Coisas que gosto de resolver
 
-### 🎾 Rede Social para Jogadores de Beach Tennis
+```ts
+const foco = {
+  filas:      "BullMQ, retry com backoff, idempotência por unique constraint",
+  cache:      "cache-aside com Redis em queries de agregação caras",
+  integração: "webhooks, HMAC-SHA256, workers de polling com shutdown gracioso",
+  deploy:     "Docker, GitHub Actions, Nginx e PM2 em droplet próprio",
+};
+```
 
-MVP de uma aplicação voltada para conectar jogadores de beach tennis, facilitar a marcação de partidas e encontrar arenas na cidade.
+<br />
 
-> 👥 Conexão entre jogadores.  
-> 📍 Busca por arenas disponíveis na cidade.  
-> 📅 Organização de partidas e encontros esportivos.  
-> 🧩 Estrutura pensada para evolução futura do produto.  
-> 📱 Foco em experiência do usuário e usabilidade.  
-> ⚙️ Projeto desenvolvido com foco em aplicação real e regras de negócio.
+<div align="center">
 
----
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=9CA3AF" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=9CA3AF" />
 
-## 🛠️ Tecnologias & Ferramentas
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br />
 
----
+### Onde me achar
 
-## 📚 Atualmente estudando
+<div align="center">
 
-> 🧠 Desenvolvimento full-stack com Next.js e TypeScript.  
-> 🔐 Autenticação, autorização e segurança em aplicações web.  
-> 🗄️ Banco de dados relacional com PostgreSQL e MySQL.  
-> 🐳 Docker e organização de ambientes de desenvolvimento.  
-> ⚙️ APIs REST com Node.js e Python.  
-> 🧪 Boas práticas, testes e qualidade de software.  
-> ☁️ Deploy de aplicações web e integração com serviços externos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/SEU-PERFIL)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1F3A?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://SEU-DOMINIO.com)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:SEU@EMAIL.com)
 
----
+</div>
 
-## 📊 Estatísticas do GitHub
-
-<!-- Troque "SEU_USUARIO_AQUI" pelo seu usuário do GitHub -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contato
-
-<!-- Adicione seus links reais abaixo, caso queira -->
-
-📧 **Email:** phenriquesp1997@gmail.com 
-💼 **LinkedIn:** seu-linkedin-aqui  
-🌐 **Portfólio:** seu-portfolio-aqui  
-
----
-
-> 💻 “Cada linha de código é uma oportunidade de criar algo melhor.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0E7490,100:0B1F3A&height=100&section=footer" width="100%" />
