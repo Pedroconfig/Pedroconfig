@@ -16,7 +16,9 @@ Hoje na **Encontre Compre**, cursando pós em **Desenvolvimento e Testes de Soft
 ### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,postgres,redis,prisma,docker,aws,githubactions,nginx&theme=dark&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,postgres,redis,prisma,docker,aws,githubactions,nginx&theme=dark&perline=10" />
+
 </div>
 
 <br />
@@ -25,10 +27,8 @@ Hoje na **Encontre Compre**, cursando pós em **Desenvolvimento e Testes de Soft
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-
-| **[SupportFlow](https://github.com/Pedroconfig/SupportflowAi)** | Plataforma de exportação de chats com ia com treinamento via RAG (API OPENAI) | Next.js · Pg vector · OPEN AI |
-
-| **[ocr-mobile](https://github.com/Pedroconfig/OCR-_APP)** | Extração de documentos com pipeline assíncrono e análise por LLM | Next.js · Qwen-VL · Vercel Blob |
+| **[SupportFlow](https://github.com/Pedroconfig/SupportflowAi)** | Plataforma de exportação de chats com IA, com treinamento via RAG | Next.js · pgvector · OpenAI |
+| **[OCR App](https://github.com/Pedroconfig/OCR-_APP)** | Extração de documentos com pipeline assíncrono e análise por LLM | Next.js · Qwen-VL · Vercel Blob |
 
 <br />
 
@@ -47,8 +47,8 @@ const foco = {
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=9CA3AF" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=9CA3AF" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Pedroconfig&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=9CA3AF" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroconfig&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=9CA3AF" />
 
 </div>
 
@@ -58,9 +58,9 @@ const foco = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/SEU-PERFIL)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1F3A?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://SEU-DOMINIO.com)
-[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:SEU@EMAIL.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://www.linkedin.com/in/pedro-henrique-9b2a06205/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1F3A?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://pedrodev.app.br/)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:phenriquesp1997@gmail.com)
 
 </div>
 
