@@ -25,9 +25,9 @@ Hoje na **Encontre Compre**, cursando pós em **Desenvolvimento e Testes de Soft
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[Wave](https://github.com/SEU-USUARIO/wave)** | CRM multi-tenant com pipeline drag-and-drop e timeline de atividades | Next.js 14 · Prisma · PostgreSQL |
-| **[OCR SaaS](https://github.com/SEU-USUARIO/ocr-saas)** | Extração de documentos com pipeline assíncrono e análise por LLM | Next.js · Qwen-VL · Vercel Blob |
-| **[ocr-mobile](https://github.com/SEU-USUARIO/ocr-mobile)** | Cliente mobile do OCR SaaS, consumindo a API em produção | Expo · React Native · NativeWind |
+
+| **[SupportFlow](https://github.com/Pedroconfig/SupportflowAi)** | Plataforma de exportação de chats com ia com treinamento via RAG (API OPENAI) | Next.js · Pg vector · OPEN AI |
+| **[ocr-mobile](https://github.com/Pedroconfig/OCR-_APP)** | Extração de documentos com pipeline assíncrono e análise por LLM | Next.js · Qwen-VL · Vercel Blob |
 
 <br />
 
