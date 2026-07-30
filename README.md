@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0E7490,100:14B8A6&height=180&section=header&text=Pedro&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20Fortaleza,%20BR&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0E7490,100:14B8A6&height=180&section=header&text=Pedro&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Fortaleza,%20BR&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -47,8 +47,8 @@ const foco = {
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Pedroconfig&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=14B8A6&text_color=9CA3AF" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroconfig&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=9CA3AF" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedroconfig&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedroconfig&theme=github_dark" />
 
 </div>
 
@@ -58,9 +58,9 @@ const foco = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://www.linkedin.com/in/pedro-henrique-9b2a06205/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1F3A?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://pedrodev.app.br/)
-[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:phenriquesp1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://linkedin.com/in/SEU-PERFIL)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B1F3A?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://SEU-DOMINIO.com)
+[![Email](https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:SEU@EMAIL.com)
 
 </div>
 
