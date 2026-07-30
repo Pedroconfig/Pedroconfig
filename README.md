@@ -27,6 +27,7 @@ Hoje na **Encontre Compre**, cursando pós em **Desenvolvimento e Testes de Soft
 | :--- | :--- | :--- |
 
 | **[SupportFlow](https://github.com/Pedroconfig/SupportflowAi)** | Plataforma de exportação de chats com ia com treinamento via RAG (API OPENAI) | Next.js · Pg vector · OPEN AI |
+
 | **[ocr-mobile](https://github.com/Pedroconfig/OCR-_APP)** | Extração de documentos com pipeline assíncrono e análise por LLM | Next.js · Qwen-VL · Vercel Blob |
 
 <br />
